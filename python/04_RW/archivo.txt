@@ -1,4 +1,7 @@
-1 2
-2 4
-3 6
-4 8
+Ana 7 8 6
+Luis 4 5 
+marta
+pedro 10 8 9 
+sara 6 5 7 
+juan 
+lucia 8 7 
